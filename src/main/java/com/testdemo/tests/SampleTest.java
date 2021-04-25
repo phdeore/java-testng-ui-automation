@@ -1,11 +1,12 @@
-package com.testdemo.sample;
+package com.testdemo.tests;
 
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import framework.util.BaseTest;
+import com.testdemo.sample.BaseTest;
+
 
 public class SampleTest extends BaseTest {
 	

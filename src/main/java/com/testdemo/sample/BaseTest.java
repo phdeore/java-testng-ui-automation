@@ -1,4 +1,4 @@
-package framework.util;
+package com.testdemo.sample;
 
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.AfterClass;
